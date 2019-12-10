@@ -13,9 +13,9 @@ infopt1.append(name)
 addy = []
 addy1 = input("What city do you live in? ")
 addy.append(addy1)
-addy2 = input("What state do you live in?")
+addy2 = input("What state do you live in? ")
 addy.append(addy2)
-addy3 = input("What is uour ZIP?")
+addy3 = input("What is your ZIP? ")
 addy.append(addy3)
 
 infopt2 = []
